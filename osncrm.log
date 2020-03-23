@@ -1,0 +1,41 @@
+Mon Mar 23 07:17:36 2020 [544][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+Mon Mar 23 07:24:31 2020 [544][1][FATAL] Class Connectors does not exist, unable to rename.
+Mon Mar 23 07:24:31 2020 [544][1][FATAL] Class Version does not exist, unable to rename.
+Mon Mar 23 07:24:31 2020 [544][1][FATAL] Class CustomFields does not exist, unable to rename.
+Mon Mar 23 07:24:31 2020 [544][1][FATAL] Class Audit does not exist, unable to rename.
+Mon Mar 23 08:10:14 2020 [544][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Mar 23 08:10:14 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:10:14 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:10:14 2020 [544][1][FATAL] Email address save error
+Mon Mar 23 08:10:36 2020 [544][1][FATAL] Email address save error
+Mon Mar 23 08:13:54 2020 [544][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Mar 23 08:13:54 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:13:54 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:13:54 2020 [544][1][FATAL] Email address save error
+Mon Mar 23 08:14:04 2020 [544][1][FATAL] Email address save error
+Mon Mar 23 08:24:37 2020 [544][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Mar 23 08:24:37 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:24:37 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:24:38 2020 [544][1][FATAL] Email address save error
+Mon Mar 23 08:24:58 2020 [544][1][FATAL] Email address save error
+Mon Mar 23 08:26:33 2020 [544][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Mar 23 08:26:33 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:26:33 2020 [544][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Mar 23 08:26:33 2020 [544][1][FATAL] Notifications: error sending e-mail (method: smtp), (error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting)
+Mon Mar 23 08:33:19 2020 [544][c95a9373-9af6-bc41-1131-5e786086e74e][FATAL] Undefined index: module
+Mon Mar 23 08:33:19 2020 [544][c95a9373-9af6-bc41-1131-5e786086e74e][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Mon Mar 23 08:33:19 2020 [544][c95a9373-9af6-bc41-1131-5e786086e74e][FATAL] Failed to load original or custom subpanel data for eapm in 
+Mon Mar 23 09:32:29 2020 [544][1][FATAL] Exception handling in D:\xampp\htdocs\osncrm\include\MVC\Controller\SugarController.php:400
+Mon Mar 23 09:32:29 2020 [544][1][FATAL] Exception in Controller: Error: Field Already Exists
+Mon Mar 23 09:32:29 2020 [544][1][FATAL] backtrace:
+#0 D:\xampp\htdocs\osncrm\modules\ModuleBuilder\controller.php(389): sugar_die('Error: Field Al...')
+#1 D:\xampp\htdocs\osncrm\include\MVC\Controller\SugarController.php(525): ModuleBuilderController->action_SaveField()
+#2 D:\xampp\htdocs\osncrm\include\MVC\Controller\SugarController.php(494): SugarController->do_action()
+#3 D:\xampp\htdocs\osncrm\include\MVC\Controller\SugarController.php(468): SugarController->handle_action()
+#4 D:\xampp\htdocs\osncrm\modules\ModuleBuilder\controller.php(101): SugarController->process()
+#5 D:\xampp\htdocs\osncrm\include\MVC\Controller\SugarController.php(373): ModuleBuilderController->process()
+#6 D:\xampp\htdocs\osncrm\include\MVC\SugarApplication.php(113): SugarController->execute()
+#7 D:\xampp\htdocs\osncrm\index.php(52): SugarApplication->execute()
+#8 {main}
+Mon Mar 23 10:38:49 2020 [544][34cf5111-5460-dd4a-da2f-5e78618d131d][FATAL] SugarPHPMailer encountered an error: Invalid address:  (to): 
+Mon Mar 23 10:39:43 2020 [544][34cf5111-5460-dd4a-da2f-5e78618d131d][FATAL] SugarPHPMailer encountered an error: Invalid address:  (to): 
